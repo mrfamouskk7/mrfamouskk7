@@ -1,11 +1,9 @@
 <h1 align = "center"><b>Kunal Kumbhar</b></h1>
 
 <p align = "center">
-  <i>I am a 3rd Year student🤵 from <b>D. Y. Patil College of Engineering, Akurdi</b> 🏬. I am a <b>Competitive Programmer</b>💻 and I love to take part in various contests. Also a <b>Web Development Enthusiast</b>🛠 who is still trying to learn a lot of things🔬 related to it.</i><br><br><br>
+  <i>I am a 3rd Year student🤵 from <b>D. Y. Patil College of Engineering, Akurdi</b> 🏬. I am a <b>Competitive Programmer</b>💻 and I love to take part in various contests. Also a <b>Web Development Enthusiast</b>🛠 who is still trying to learn a lot of things🔬 related to it.</i><br><br><br><br>
 	<img width = "200px" align="center" src = "https://github.com/mrfamouskk7/profile/blob/main/Images/1999636735animated-computer-gif4.gif">
 </p><br>
-
-<br><br>
 <i><h3 align = "center">Few things about me:</h3></i>
 <i>
 <ul align = "center">
