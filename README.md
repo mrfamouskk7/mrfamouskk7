@@ -4,12 +4,13 @@
   <i>I am a 3rd Year student🤵 from <b>D. Y. Patil College of Engineering, Akurdi</b> 🏬. I am a <b>Competitive Programmer</b>💻 and I love to take part in various contests. Also a <b>Web Development Enthusiast</b>🛠 who is still trying to learn a lot of things🔬 related to it.</i>
 </p>
 <br><br>
-<i><h3>Few things about me:</h3>
-<ul>
-	<li>✨3 star coder on CodeChef</li>
-	<li>🥇6 star problem solver on HackerRank</li>
-	<li>👨🏻‍🎓Competitive Programming Lead at CodeChef DYPCOE Chapter</li>
-	<li>🏆Team Member at D. Y. Patil Robotics and AI Club (DRAIC)</li>	
+<i><h3 align = "center">Few things about me:</h3></i>
+<i>
+<ul align = "center">
+	<li type = "none">✨3 star coder on CodeChef</li>
+	<li type = "none">🥇6 star problem solver on HackerRank</li>
+	<li type = "none">👨🏻‍🎓Competitive Programming Lead at CodeChef DYPCOE Chapter</li>
+	<li type = "none">🏆Team Member at D. Y. Patil Robotics and AI Club (DRAIC)</li>	
 </ul>
 </i>
 <br><br>
