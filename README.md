@@ -5,16 +5,26 @@
 </p>
 <br><br>
 
-<h2>Tools and Technologies:</h2>
+<h2 align = "center"></h2>
+
+<h2 align = "center">Languages and Frameworks</h2>
 <p align = "center">
-   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
-   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+   <img width="7%"style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+   <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+   <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+   <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+   <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+   <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+   <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+</p>
+<h2 align = "center">Connect with me:</h2>
+<p align="center">
+	<a href="https://github.com/imakash3011"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/imakash3011/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://twitter.com/imakash3011"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=mrfamouskk7&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
