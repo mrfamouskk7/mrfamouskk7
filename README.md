@@ -13,10 +13,7 @@
 	<li type = "none">🏆Team Member at D. Y. Patil Robotics and AI Club (DRAIC)</li>	
 </ul>
 </i>
-<br><br>
-
-<h2 align = "center"></h2>
-<br><br>
+<br>
 <h2 align = "center">Languages and Frameworks</h2>
 <p align = "center">
    <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
