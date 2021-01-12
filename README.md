@@ -3,7 +3,6 @@
 <p>
   <i><b>I am a 3rd Year student🤵 from D. Y. Patil College of Engineering, Akurdi 🏬. I am a Competitive Programmer💻 and I love to take part in various contests. Also a Web Development Enthusiast🛠 who is still trying to learn a lot of things🔬 related to it. </b></i>
 </p>
-
 <br><br>
 
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=mrfamouskk7&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
