@@ -1,7 +1,7 @@
-<h1>Kunal Kumbhar</h1>
+<h1><b>Kunal Kumbhar</b></h1>
 <img width = "150px" align="right" src = "https://github.com/mrfamouskk7/profile/blob/main/Images/1999636735animated-computer-gif4.gif">
 <p>
-  <i><b>I am a 3rd Year student🤵 from D. Y. Patil College of Engineering, Akurdi 🏬. I am a Competitive Programmer and I love to take part in various contests. Also a Web Development Enthusiast who is still trying to learn a lot of things related to it. </b></i>
+  <i><b>I am a 3rd Year student🤵 from D. Y. Patil College of Engineering, Akurdi 🏬. I am a Competitive Programmer💻 and I love to take part in various contests. Also a Web Development Enthusiast🛠 who is still trying to learn a lot of things🔬 related to it. </b></i>
 </p>
 
 <br><br>
