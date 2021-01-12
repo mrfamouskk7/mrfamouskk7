@@ -6,7 +6,9 @@
   <i>I am a 3rd Year student🤵 from <b>D. Y. Patil College of Engineering, Akurdi</b> 🏬. I am a <b>Competitive Programmer</b>💻 and I love to take part in various contests. Also a <b>Web Development Enthusiast</b>🛠 who is still trying to learn a lot of things🔬 related to it.</i><br><br><br><br>
 	<img width = "200px" align="center" src = "https://github.com/mrfamouskk7/profile/blob/main/Images/1999636735animated-computer-gif4.gif">
 </p><br>
-<i><h3 align = "center">Few things about me</h3></i>
+<i><h2 align = "center">Few things about me<a href="https://github.com/mrfamouskk7">
+  <img align="center" height = "70px" src="https://github.com/mrfamouskk7/profile/blob/main/Images/giphy%20(7).gif" />
+</a></h2></i>
 <i>
 <ul align = "center">
 	<li type = "none">✨3 star coder on CodeChef</li>
