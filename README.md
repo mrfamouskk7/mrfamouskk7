@@ -1,9 +1,12 @@
-<h1><b>Kunal Kumbhar</b></h1>
+<h1><b>Kunal Kumbhar</b>  <img width = "45px" src = "https://github.com/mrfamouskk7/profile/blob/main/Images/1018942106Hacker-03-june.gif"></h1>
 <img width = "150px" align="right" src = "https://github.com/mrfamouskk7/profile/blob/main/Images/1999636735animated-computer-gif4.gif">
 <p>
-  <i><b>I am a 3rd Year student🤵 from D. Y. Patil College of Engineering, Akurdi 🏬. I am a Competitive Programmer💻 and I love to take part in various contests. Also a Web Development Enthusiast🛠 who is still trying to learn a lot of things🔬 related to it. </b></i>
+  <i>I am a 3rd Year student🤵 from <b>D. Y. Patil College of Engineering, Akurdi</b> 🏬. I am a <b>Competitive Programmer</b>💻 and I love to take part in various contests. Also a <b>Web Development Enthusiast</b>🛠 who is still trying to learn a lot of things🔬 related to it.</i>
 </p>
 <br><br>
+
+<h2>Tools and Technologies:</h2>
+
 
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=mrfamouskk7&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfamouskk7&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
