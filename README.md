@@ -3,6 +3,7 @@
 <p>
   <i>I am a 3rd Year student🤵 from <b>D. Y. Patil College of Engineering, Akurdi</b> 🏬. I am a <b>Competitive Programmer</b>💻 and I love to take part in various contests. Also a <b>Web Development Enthusiast</b>🛠 who is still trying to learn a lot of things🔬 related to it.</i>
 </p>
+<br><br>
 <i><h3>Few things about me:</h3>
 <ul>
 	<li>✨3 star coder on CodeChef</li>
@@ -29,6 +30,7 @@
 <br><br>
 <h2 align = "center">Connect with me:</h2>
 <p align="center">
+	<a href="mailto:kunalkumbhar19@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 	<a href="https://github.com/mrfamouskk7"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/kunal-kumbhar-a14aa218b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/kunal.kumbhar.1257/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
@@ -36,11 +38,12 @@
 	<a href="https://twitter.com/kk_famous"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 <br><br>
-
+<div align = "center">
 <a href="https://github.com/TheDudeThatCode/TheDudeThatCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrfamouskk7&theme=chartreuse-dark&show_icons=true" />
 </a>
 <a href="https://github.com/TheDudeThatCode/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfamouskk7&theme=chartreuse-dark&show_icons=true" />
+  <img align="center" width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfamouskk7&theme=chartreuse-dark&show_icons=true" />
 </a>
+</div>
 <br><br>
