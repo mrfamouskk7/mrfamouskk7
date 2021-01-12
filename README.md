@@ -1,5 +1,5 @@
 <h1><b>Kunal Kumbhar</b>  <img width = "45px" src = "https://github.com/mrfamouskk7/profile/blob/main/Images/1018942106Hacker-03-june.gif"></h1>
-<img width = "150px" align="right" src = "https://github.com/mrfamouskk7/profile/blob/main/Images/1999636735animated-computer-gif4.gif">
+<img width = "200px" align="right" src = "https://github.com/mrfamouskk7/profile/blob/main/Images/1999636735animated-computer-gif4.gif">
 <p>
   <i>I am a 3rd Year student🤵 from <b>D. Y. Patil College of Engineering, Akurdi</b> 🏬. I am a <b>Competitive Programmer</b>💻 and I love to take part in various contests. Also a <b>Web Development Enthusiast</b>🛠 who is still trying to learn a lot of things🔬 related to it.</i>
 </p>
