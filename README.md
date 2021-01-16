@@ -30,6 +30,7 @@
    <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
    <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
    <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img width="7%" style="padding:5px" src="https://github.com/mrfamouskk7/mrfamouskk7/blob/main/Images/128-1286693_flask-framework-logo-svg-hd-png-download.png">
 </p>
 <br><br>
 
