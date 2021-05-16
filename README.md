@@ -14,7 +14,8 @@
 	<li type = "none">✨3 star coder on CodeChef</li>
 	<li type = "none">🥇6 star problem solver on HackerRank</li>
 	<li type = "none">👨🏻‍🎓Competitive Programming Lead at CodeChef DYPCOE Chapter</li>
-	<li type = "none">🏆Team Member at D. Y. Patil Robotics and AI Club (DRAIC)</li>	
+	<li type = "none">🏆Team Member at D. Y. Patil Robotics and AI Club (DRAIC)</li>
+	<li type = "none">🤠Technical Head at Information Technology Education Student Association (ITESA)</li>
 </ul>
 </i>
 <br>
