@@ -3,7 +3,7 @@
 </a></h1>
 
 <p align = "center">
-  <i>I am a 3rd Year student🤵 from <b>D. Y. Patil College of Engineering, Akurdi</b> 🏬. I am a <b>Competitive Programmer</b>💻 and I love to take part in various contests. Also a <b>Web Development Enthusiast</b>🛠 who is still trying to learn a lot of things🔬 related to it.</i><br><br><br><br>
+  <i>I am an Information Technology Engineer 🤵. <br>I am a <b>Backend Developer</b> 💻 and I love to take part in problem solving contests.<br> I have some experience in Competitive Programming.</i><br><br><br><br>
 	<img width = "200px" align="center" src = "https://github.com/mrfamouskk7/profile/blob/main/Images/1999636735animated-computer-gif4.gif">
 </p><br>
 <i><h2 align = "center">Few things about me<a href="https://github.com/mrfamouskk7">
@@ -39,12 +39,12 @@
   <img align="center" height = "70px" src="https://github.com/mrfamouskk7/profile/blob/main/Images/giphy%20(5).gif" />
 </a></h2>
 <p align="center">
-	<a href="mailto:kunalkumbhar19@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-	<a href="https://github.com/mrfamouskk7"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/kunal-kumbhar-a14aa218b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/kunal.kumbhar.1257/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/mr_famous_kk/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/kk_famous"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a href="mailto:kunalkumbhar19@gmail.com"><img alt="github" width="10%" style="padding:5px" src="Images/gmail.png"/></a>
+	<a href="https://github.com/mrfamouskk7"><img alt="github" width="10%" style="padding:5px" src="Images/github.png"/></a>
+	<a href="https://www.linkedin.com/in/kunal-kumbhar/"><img alt="linkedin" width="10%" style="padding:5px" src="Images/linkedin.png"/></a>
+	<a href="https://www.facebook.com/kunal.kumbhar.1257/"><img alt="facebook" width="10%" style="padding:5px" src="Images/facebook.png"/></a>
+	<a href="https://www.instagram.com/mr_famous_kk/"><img alt="instagram" width="10%" style="padding:5px" src="Images/instagram.png"/></a>
+	<a href="https://twitter.com/kunalkumbhar77"><img alt="twitter" width="10%" style="padding:5px" src="Images/twitter.png"/></a>
 </p>
 <br><br>
 <div align = "center">
