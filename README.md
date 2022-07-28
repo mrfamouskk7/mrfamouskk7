@@ -23,6 +23,7 @@
   <img align="center" height = "40px" src="https://github.com/mrfamouskk7/profile/blob/main/Images/giphy%20(6).gif" />
 </a></h2>
 <p align = "center">
+   <img width="7%" style="padding:5px" src="Images/rails.png">
    <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
    <img width="7%"style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
    <img width="7%" style="padding:5px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
